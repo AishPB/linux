@@ -1,0 +1,38 @@
+Q.1] create directory with name dir1 , Inside dir1 create another directory name dir2 , Inside dir2 create another directory name dir3 in single command( Complete using single command)  [ 3 mark ]
+
+Q.2] Remove dir1,dir2 and dir 3 using Single command ( Complete using single command) [ 3 mark ]
+
+Q.3] create File1.txt and set the read and write permission for other users [ 1 mark ]
+
+Q.4] create File2.txt and set the read permission for everyone  [ 1 mark ]
+
+Q.5] Remove the read permissions for the “other” users from File2.txt. [ 2 mark ]
+
+Download File ExamDataset.txt
+
+Q.6]  prints the lines matches with the pattern. pattern - 'java' [ 2 mark ]
+
+Q.7]  prints the lines containg matches that form whole word . word - ' program'. [ 2 mark ]
+
+Q.8] prints two line after match is found including match line. word- ' device ' [ 2 mark ]
+
+Q.9]  prints two line before match is found including match line . word -' device'  [ 2 mark ]
+
+Q.10] prints two line after as well as before match is found including match line. word -' device' [ 2 mark ]
+
+
+
+
+
+Q.11]  Create a bash file with the name, ‘ShellQ.No11.sh’.  write a bash program to print a given number in reverse order.
+Number - 123465  [ 10 mark ]
+
+
+Q. 12]  Create a bash file with the name, ‘ShellQ.No12.sh’. while loop will iterate for 5 times. The value of count variable will increment by 1 in each step. When the value of count variable will 5 then the while loop will terminate.  [ 10 mark ]
+
+
+
+
+
+
+
